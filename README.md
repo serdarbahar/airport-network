@@ -1,0 +1,1 @@
+Includes a Dijkstra-based shortest-path algorithm in a time-variant graph. Resolves time-dependency by adding a time layer to current nodes. Graph is based on a specifically formatted input including features of airports and and weather data. 
